@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="ex01/ex01.csproj" />
+  <Project Path="ex03/ex03.csproj" />
+  <Project Path="ex04/ex04.csproj" />
 </Solution>
