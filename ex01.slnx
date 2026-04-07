@@ -5,4 +5,5 @@
   <Project Path="ex04/ex04.csproj" />
   <Project Path="ex05/ex05.csproj" />
   <Project Path="ex07/ex07.csproj" />
+  <Project Path="ex08/ex08.csproj" />
 </Solution>

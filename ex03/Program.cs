@@ -1,4 +1,4 @@
-﻿namespace ex03;
+﻿namespace ex08;
 
 class Program
 {
